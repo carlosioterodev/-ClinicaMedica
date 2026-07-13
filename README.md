@@ -24,6 +24,26 @@ Amilcar Villarreal
 - **Roles y Permisos:** Spatie Laravel-Permission
 - **PDF:** Barryvdh Laravel-DomPDF
 - **Build:** Vite
+## Vista Previa del Sistema
+
+### Dashboard Administrativo
+![Dashboard](images/Landing(1).png)
+
+### Login
+![Dashboard](images/Login.png)
+
+### Panel Administrativo
+![Dashboard](images/PanelAdmin.png)
+
+### Panel de doctor
+![Dashboard](images/PanelDoctor.png)
+
+### Panel enfermería
+![Dashboard](images/PanelEnfermeria.png)
+
+### Panel Cliente
+![Dashboard](images/PanelCliente.png)
+
 
 ## Funcionalidades (12 Pantallas)
 
