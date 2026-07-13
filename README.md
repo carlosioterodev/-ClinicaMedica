@@ -27,7 +27,7 @@ Amilcar Villarreal
 ## Vista Previa del Sistema
 
 ### Dashboard Administrativo
-![Dashboard](images/Landing(1).png)
+![Dashboard](images/Landing (1).png)
 
 ### Login
 ![Dashboard](images/Login.png)
