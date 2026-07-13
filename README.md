@@ -143,7 +143,7 @@ resources/views/
 
 Este proyecto se distribuye bajo la Licencia MIT.
 
-¿Qué significa esto para ti?
+
 Este software es de código abierto y está disponible para su uso en entornos profesionales, académicos y personales. Eres libre de:
 
 Copiar y modificar el código para adaptarlo a tus necesidades.
@@ -155,5 +155,3 @@ Distribuir versiones modificadas del sistema.
 Condiciones:
 
 Solo solicitamos que mantengas el aviso de copyright y la nota de licencia original en cualquier copia o parte sustancial del código.
-
-El software se entrega "tal cual", sin garantías de funcionamiento, bajo el marco legal de la Licencia MIT.
