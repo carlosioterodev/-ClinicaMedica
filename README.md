@@ -2,6 +2,19 @@
 
 Sistema de gestion clinica medica construido con Laravel 11, MySQL, Blade Templates y Livewire.
 
+Origen Académico
+Este sistema fue desarrollado como proyecto final de la asignatura Ingeniería de Software (I Semestre, 2026) en la Universidad Autónoma de Chiriquí (UNACHI), Facultad de Economía y Ciencias de la Computación. El proyecto fue realizado por estudiantes de tercer año de la Licenciatura en Gestión de Tecnología de la Información, bajo la supervisión y guía del Prof. Alexis Flores.
+
+Equipo de desarrollo:
+
+Carlos Otero
+
+Enrique López
+
+Aarón Pérez
+
+Amilcar Villarreal
+
 ## Stack Tecnologico
 
 - **Backend:** Laravel 11, PHP 8.2
