@@ -26,7 +26,7 @@ Amilcar Villarreal
 - **Build:** Vite
 ## Vista Previa del Sistema
 
-### Dashboard Administrativo
+### Landing Page
 ![Dashboard](images/Landing.png)
 
 ### Login
